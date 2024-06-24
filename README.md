@@ -6,6 +6,8 @@ Slack channel: #workshop-llm-working-programmer
 
 Participants need access to a LLM of their choice (recommended: gpt-4o and claude 3.5 sonnet). Please prepare a list of programming topics (projects you want to build, legacy code you might want to work on, frameworks and technologies you want to learn). I will provide an extensive list of ideas to try out during the talk.
 
+The handout to the talk will be added shortly before the workshop, I don't want to spoil the surprise.
+
 ## Prerequisites
 
 These are all optional and just FIY.
